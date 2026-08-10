@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0645-set-mismatch) |
 ## Math
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
